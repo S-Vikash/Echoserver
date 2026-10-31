@@ -57,9 +57,9 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```
 
 ## OUTPUT:
-<img width="420" height="80" alt="image" src="https://github.com/user-attachments/assets/b3d0b60e-4c1e-4515-af6d-112f6812e0ce" />
+![alt text](img/client.png)
 
-<img width="420" height="80" alt="image" src="https://github.com/user-attachments/assets/4a4d2f10-8298-4f2e-85c2-31a5b5e43086" />
+![alt text](img/server.png)
 
 
 ## RESULT:
